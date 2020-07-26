@@ -47,3 +47,10 @@ ul.posts li {
   background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agdelta.com%2Fhome-4%2Fwebsite-parallax-background-c%2F&psig=AOvVaw12T310al0jTujURGHk1atb&ust=1595831462548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj1xNil6uoCFQAAAAAdAAAAABAR);
   background-size:cover;
 }
+html { 
+  background: url(images.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
