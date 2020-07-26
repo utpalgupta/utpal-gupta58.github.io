@@ -1,6 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image:
+        linear-gradient(to bottom, rgba(255,255,0,0.5), rgba(0,0,255,0.5)),
+         url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agdelta.com%2Fhome-4%2Fwebsite-parallax-background-c%2F&psig=AOvVaw12T310al0jTujURGHk1atb&ust=1595831462548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj1xNil6uoCFQAAAAAdAAAAABAR');
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -47,6 +50,4 @@ ul.posts li {
   background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agdelta.com%2Fhome-4%2Fwebsite-parallax-background-c%2F&psig=AOvVaw12T310al0jTujURGHk1atb&ust=1595831462548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj1xNil6uoCFQAAAAAdAAAAABAR);
   background-size:cover;
 }
-background-image:
-  linear-gradient(to bottom, rgba(255,255,0,0.5), rgba(0,0,255,0.5)),
-  url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agdelta.com%2Fhome-4%2Fwebsite-parallax-background-c%2F&psig=AOvVaw12T310al0jTujURGHk1atb&ust=1595831462548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj1xNil6uoCFQAAAAAdAAAAABAR');
+
